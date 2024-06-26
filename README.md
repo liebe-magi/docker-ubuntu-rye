@@ -2,7 +2,7 @@
 
 [rye](https://rye.astral.sh/)導入済みのDockerイメージ
 
-## Usage
+## Pull from Docker Hub
 
 ```
 docker pull liebemagi/ubuntu-rye:latest
